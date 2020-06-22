@@ -539,6 +539,7 @@ img {
     width: 72%;
     margin-top: 108px;
     margin-bottom: 150px;
+    max-width: unset;
   }
 
   .statistics {
